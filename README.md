@@ -2,12 +2,12 @@
 
 **About Me**
 
-Graduate student pursuing a MS in Computer Science at University of Colorado, Boulder
+Graduate student pursuing an MS in Computer Science at the University of Colorado, Boulder
 
 ## Current Work
 
 - **iOS Developer** at Just For Eyes - Building native iOS apps with Swift, ARKit, and SceneKit
-- **Full-Stack Engineer** at Fashion Social Platform - Developing cross-platform mobile applications
+- **Full-Stack Engineer** for cross-platform AI startup (prelaunch)
 
 ## Tech Stack
 
