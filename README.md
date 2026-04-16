@@ -2,12 +2,12 @@
 
 **About Me**
 
-Graduate student pursuing an MS in Computer Science at the University of Colorado, Boulder
+Full-time salary worker, part-time League player
 
 ## Current Work
 
 - **iOS Developer** at Just For Eyes - Building native iOS apps with Swift, ARKit, and SceneKit
-- **Full-Stack Engineer** for cross-platform AI startup (prelaunch)
+- **IT Data Engineer** at Sequoia
 
 ## Tech Stack
 
